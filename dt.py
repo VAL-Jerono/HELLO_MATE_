@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
-from PIL import Image
+#from PIL import Image
 import json
 import matplotlib.pyplot as plt
 
