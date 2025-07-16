@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # --- Page Configuration ---
 st.set_page_config(page_title="💘 Dating Match Predictor", layout="wide")
-st.title("💘 Scientific Dating Match Predictor")
+st.title("💘 VON Dating Match Predictor")
 st.write("This predictor uses machine learning to analyze compatibility factors based on real psychological research.")
 
 # --- Load Model & Feature Info ---
