@@ -1,0 +1,34 @@
+{
+    "features": [
+        "personality_alignment",
+        "total_attr_compat",
+        "like_o",
+        "samerace",
+        "ambition_gap",
+        "age_compatibility",
+        "attr_perception_gap",
+        "gender",
+        "prob_o",
+        "age_o",
+        "int_corr",
+        "age",
+        "attr_gap",
+        "gender_attr_interaction"
+    ],
+    "feature_importance": {
+        "personality_alignment": 0.09331241250038147,
+        "total_attr_compat": 0.07135322690010071,
+        "like_o": 0.07644764333963394,
+        "samerace": 0.1136053055524826,
+        "ambition_gap": 0.057321056723594666,
+        "age_compatibility": 0.07501735538244247,
+        "attr_perception_gap": 0.0856383815407753,
+        "gender": 0.07100800424814224,
+        "prob_o": 0.04995684698224068,
+        "age_o": 0.0543694868683815,
+        "int_corr": 0.06516046077013016,
+        "age": 0.06756500899791718,
+        "attr_gap": 0.05982430651783943,
+        "gender_attr_interaction": 0.0594203881919384
+    }
+}
