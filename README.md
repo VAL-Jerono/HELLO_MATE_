@@ -71,4 +71,4 @@ This project explores the dynamics of love, relationships, and societal attitude
 ## **Conclusion**  
 - Love is a fundamental human experience, influenced by individual preferences, societal norms, and emotional security. This project demonstrates how data analysis can help us understand and improve relationships by identifying key factors that sustain or hinder love.  
 
-- Further research into predictive modeling and sentiment analysis could enhance relationship compatibility tools and provide deeper insights into modern dating behaviors.
+- Further research into predictive modeling and sentiment analysis could enhance relationship compatibility tools and provide deeper insights into modern dating behaviors
